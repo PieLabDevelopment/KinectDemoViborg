@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
     guid: 072e937106e428b47a5ffa6f4fafdb59
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PoseDetectionDemo1.unity
     guid: 7ab1548f4562a634ca0fb553f7931360
+  - enabled: 1
+    path: Assets/Karate.unity
+    guid: ddd59e5a1315051eaa5a6f4cb6a84774
   m_configObjects: {}
